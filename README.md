@@ -6,8 +6,8 @@ This repository doesn't list any [configuration file](https://mybinder.readthedo
 
 ## Metadata
 
-Markdown YAML header key DOCX paragraph style name Note
------------------------- ------------------------- --------------------------
-title                    Title
-subtitle                 Subtitle
-author                   Author                    One author per paragraph.
+| Markdown YAML header key | DOCX paragraph style name | Note                       |
+| ------------------------ | ------------------------- | -------------------------- |
+| title                    | Title                     |                            |
+| subtitle                 | Subtitle                  |                            |
+| author                    Author                     | One author per paragraph.  |
