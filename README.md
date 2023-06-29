@@ -10,4 +10,4 @@ This repository doesn't list any [configuration file](https://mybinder.readthedo
 | ------------------------ | ------------------------- | -------------------------- |
 | title                    | Title                     |                            |
 | subtitle                 | Subtitle                  |                            |
-| author                    Author                     | One author per paragraph.  |
+| author                   | Author                    | One author per paragraph.  |
